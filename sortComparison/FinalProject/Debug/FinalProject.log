@@ -1,0 +1,5 @@
+﻿  main.cpp
+C:\Users\moham\Desktop\Fall2021\algorithm\FinalProject\FinalProject\main.cpp(23,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\moham\Desktop\Fall2021\algorithm\FinalProject\FinalProject\main.cpp(30,8): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\moham\Desktop\Fall2021\algorithm\FinalProject\FinalProject\main.cpp(159,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  FinalProject.vcxproj -> C:\Users\moham\Desktop\Fall2021\algorithm\FinalProject\Debug\FinalProject.exe
