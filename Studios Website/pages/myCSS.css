@@ -1,0 +1,100 @@
+.myCSS{
+	height:500px;
+	width: 400px;
+	margin-left: auto;
+	margin-right: auto;
+	display: blcok;
+	border: solid 10px black;
+	position: relative;
+	top: 50px;
+	box-shadow: 3px 3px 5px black
+
+}
+.text{
+	color: black;
+	font-size: 130%;
+	font-display: block;
+	text-align: center;
+	display: block;
+}
+.input{
+
+	width: 60%;
+	height: 40px;
+	border-radius: 18px;
+	border: solid black 2px;
+	padding: 2px;
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+	font-size: 80%;
+}
+.signBox{
+	margin-right: auto;
+	margin-left: auto;
+	display: block;
+	position: relative;
+	top: 35px;
+}
+.button{
+	width: 100px;
+	height: 40px;
+	border-radius: 18px;
+	border: solid black 2px;
+	padding: 2px;
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+}
+#signup{
+	width: 80px;
+	height: 30px;
+
+}
+.paragraph{
+	color: black;
+	text-align: center;
+}
+#backG{
+	background-image: url("back4.jfif.jpg");
+	background-position: center;
+	background-size: cover;
+}
+.textUp{
+	color: black;
+	font-size: 110%;
+	font-display: block;
+	position: relative;
+	left: 20px;
+	display: block;
+	position: relative;
+	left: 85px;
+}
+#cancle{
+	width: 80px;
+	height: 30px;
+}
+.nav{
+	height: 100px;
+}
+.navButt{
+	position: relative;
+	top:20px;
+}
+.link{
+	text-decoration: none;
+}
+.qoute{
+	position: relative;
+	top: 100px;
+}
+.footer{
+
+	position: relative;
+	top: 50px;
+
+}
+.roll{
+	  overflow-y: scroll;
+	  height: 200px;
+}
